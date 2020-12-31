@@ -16,9 +16,9 @@ I(as the developer) have not yet seen a lightweight application nor online websi
 
 ## Support
 If someone would like to add features to the application, please contact me with my github social links. You can also support me on my development journey
- - [https://facebook.com/raldincasidar](FB@raldincasidar)
- - [https://instagram.com/nidlarradisac](IG@nidlarradisac)
- - [https://github.com/raldincasidar](GITHUB@raldincasidar)
+ - [FB@raldincasidar](https://facebook.com/raldincasidar)
+ - [IG@nidlarradisac](https://instagram.com/nidlarradisac)
+ - [GITHUB@raldincasidar](https://github.com/raldincasidar)
  - GCASH - 09386819942 (Philippine Payment Only)
 
 ## Download
